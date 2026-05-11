@@ -10,4 +10,4 @@
 
 # Автори
 - Лесів - functions.cpp, functions.h
-- Осіпчук - main.cpp, GitHub
+- Осіпчук - main.cpp, репозиторій на GitHub
